@@ -1,0 +1,6 @@
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\bin\Debug\CategorizeTrades.exe.config
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\bin\Debug\CategorizeTrades.exe
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\bin\Debug\CategorizeTrades.pdb
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\obj\Debug\CategorizeTrades.csproj.CoreCompileInputs.cache
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\obj\Debug\CategorizeTrades.exe
+D:\Users\bruno\OneDrive\BRQ\Documentos\Prova\categorize-trades-master\CategorizeTrades\obj\Debug\CategorizeTrades.pdb
